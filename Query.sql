@@ -1,4 +1,5 @@
 -- SQL CODE
+hello 
 --VIEW
 --2 VIEW ĐƠN GIẢN
 
